@@ -1,0 +1,145 @@
+
+
+
+*{
+    font-family: 'Roboto Slab', serif;
+}
+
+.udemy {
+    width: 93px;
+    margin-bottom: 11px;
+}
+.search_width{
+    width: 50px;
+}
+.blue li a{
+    color: rgb(88, 16, 155);
+}
+.black{
+    color: #090a0a !important;
+    font-weight: 700;
+}
+
+input {
+    width: 472px !important;
+    /* height: 32px; */
+    border-radius: 18px;
+    border: 1px solid #161515;
+    font-size: 14px;
+    padding: 9px;
+    /* margin-top: 1px; */
+    border-left: 0;
+    background-color: #f9f9f9;
+}
+.input-group-text {
+    /* background-color: var(--bs-tertiary-bg); */
+    border: var(--bs-border-width) solid #090a0a;
+    /* border-radius: var(--bs-border-radius); */
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-right: none;
+    /* background-color: white; */
+    background-color: #f9f9f9 !important;
+}
+.btn {
+   
+    /* border-radius: var(--bs-btn-border-radius); */
+    background-color: var(--bs-btn-bg);
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    padding: 0 32px;
+    border-radius: 0;
+   
+}
+.bg{
+    background-color: rgb(0, 0, 0);
+    border-radius: 50%;
+    padding: 20px;
+}
+.nav-link{
+    color: #090a0a;
+}
+
+.footer i{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .navvar{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  
+}
+
+.color_white{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(194, 194, 194);
+} 
+
+
+.alert {
+   
+   
+    margin-bottom:0 !important;
+   
+}
+.btn {
+    /* border-radius: var(--bs-btn-border-radius); */
+    background-color: var(--bs-btn-bg);
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    padding: 4px 10px !important;
+    border: 1px solid black  !important;
+   
+}
+.pic{
+    width: 87%;
+}
+p{
+    font-size: 12px;
+}
+.star{
+    width: 50px;
+}
+.btn {
+    /* border-radius: var(--bs-btn-border-radius); */
+    background-color: #ffea82;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    padding: 0px 8px !important;
+    /* border: 1px solid black !important; */
+    color: black;
+    border: 1px solid white !important;
+}
+
+.yellow{
+    color: rgb(173, 173, 1);
+}
+
+.card {
+   
+    --bs-card-border-width: 0 !important;
+  
+}
+.piclast{
+    height: 147px;
+}
+.piclast2 {
+    height: 129px;
+    width: 87%;
+}
